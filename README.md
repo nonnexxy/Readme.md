@@ -1,8 +1,13 @@
-### Hi, I'm Non_Nexxy 👋  
-I focus on technical side of Minecraft servers — backend systems, automation, and making things actually work reliably.
+## Hi, I'm Non_Nexxy 👋  
+I focus on the technical side of Minecraft servers — backend systems, automation, and making things actually work reliably.
 
 For 5+ years, I've been working with server setups, configs, and Discord infrastructure.  
 I enjoy digging into problems, fixing broken systems, and improving how everything runs behind the scenes.
+
+---
+
+### 💼 Services & Collaboration
+I am primarily looking for **paid collaborations**. My rates are **affordable and flexible** depending on the complexity of the task. If you need quality technical work without breaking the bank, feel free to reach out!
 
 ---
 
@@ -45,4 +50,4 @@ I enjoy digging into problems, fixing broken systems, and improving how everythi
 
 ---
 
-📬 Open to projects, collaborations, or interesting technical challenges
+📬 **Open to projects, collaborations, or interesting technical challenges.** *Send me a DM or open an issue if you'd like to work together!*
