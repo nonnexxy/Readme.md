@@ -1,4 +1,4 @@
-# ⚡ 𝘕𝘰𝘯_𝘕𝘦𝘹𝘹𝘺 — 𝘛𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘔𝘪𝘯𝘥𝘴𝘦𝘵 👋
+# ⚡ 𝘍𝘰𝘤𝘶𝘴𝘦𝘥-𝘍𝘚 — 𝘛𝘦𝘤𝘩𝘯𝘪𝘤𝘢𝘭 𝘔𝘪𝘯𝘥𝘴𝘦𝘵 👋
 
 > *I focus on the technical side of Minecraft servers — backend systems, automation, and making things actually work reliably.*
 
@@ -7,12 +7,14 @@ For **5+ years**, I've been deep-diving into server setups, configs, and Discord
 ---
 
 ### 💼 𝘚𝘦𝘳𝘷𝘪𝘤𝘦𝘴 & 𝘊𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘪𝘰𝘯
-I am primarily looking for **[ Paid Collaborations ]**.  
+
+I am primarily looking for **[ Paid Collaborations ]**.
 *My rates are affordable and flexible depending on the project complexity.* `Affordable` • `Reliable` • `Technical`
 
 ---
 
 ### ⚙️ 𝘞𝘩𝘢𝘵 𝘐 𝘥𝘰
+
 * 🛠️ **Build & Optimize** — *GUI systems (DeluxeMenus, PAPI)*
 * 🔍 **Debug & Configure** — *Plugin stability & performance*
 * 🔐 **Permissions** — *Server structure (LuckPerms, EssentialsX)*
@@ -22,6 +24,7 @@ I am primarily looking for **[ Paid Collaborations ]**.
 ---
 
 ### 🧠 𝘏𝘰𝘸 𝘐 𝘵𝘩𝘪𝘯𝘬
+
 * ➥ I prefer **practical solutions** over theory.
 * ➥ I like **simple and clean setups** that actually work.
 * ➥ I focus on **efficiency, automation, and stability**.
@@ -29,17 +32,19 @@ I am primarily looking for **[ Paid Collaborations ]**.
 ---
 
 ### 🛠️ 𝘛𝘦𝘤𝘩 𝘴𝘵𝘢𝘤𝘬
-![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
-![Paper](https://img.shields.io/badge/Paper-white?style=for-the-badge&logo=paper&logoColor=black)
-![Fivem](https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge&logo=fivem&logoColor=white)
-![Skript](https://img.shields.io/badge/Skript-5C2D91?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge\&logo=minecraft\&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge\&logo=roblox\&logoColor=white)
+![Paper](https://img.shields.io/badge/Paper-white?style=for-the-badge\&logo=paper\&logoColor=black)
+![Fivem](https://img.shields.io/badge/FiveM-FF6B00?style=for-the-badge\&logo=fivem\&logoColor=white)
+![Skript](https://img.shields.io/badge/Skript-5C2D91?style=for-the-badge\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord\&logoColor=white)
 
 ---
 
 ### 🚀 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘧𝘰𝘤𝘶𝘴
+
 * ▹ *Improving scripting and automation*
 * ▹ *Learning backend systems & server-side logic*
 * ▹ *Exploring cybersecurity basics*
